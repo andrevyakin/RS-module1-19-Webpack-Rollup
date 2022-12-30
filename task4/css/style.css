@@ -1,0 +1,14 @@
+body {
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.js-image {
+    height: 108px;
+    width: 192px;
+    display:block;
+    margin:auto;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Rollup task1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [
+    "rollup", "js"
+  ],
+  "author": "Andrey Revyakin <andrevyakin@gmail.com>",
+  "license": "ISC"
+}
